@@ -1,0 +1,60 @@
+
+body{
+    display: flex;
+    background-color: #ffffff;
+    background-image: url(comunicacao.jpg);
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    margin: 30px;
+    
+}
+.navegacao{
+    color:cornflowerblue ;
+    background-color: white;
+    font-size: 25px;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navegacao ul{
+    list-style-type: none;
+    display: flex;
+}
+.navegacao ul li{
+padding-right: 70px;
+
+}
+
+.navegacao ul li:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+h1{
+    color: white;
+    margin-top: 10px;
+    margin: 20px 50px;
+
+}
+
+
+form{
+    margin: 10px 30px;
+    color: white;
+}
+
+h3{
+    margin: 20px 100px;
+    font-size: 30px;
+}
+
+.rodape{
+    color:darkblue;
+    margin-left: 300px;
+
+}
+
